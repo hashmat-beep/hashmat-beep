@@ -46,7 +46,7 @@ Hi there! I'm Hashmatullah, a Computer Science student at UVA and a passionate d
 **🔹 [AI Resume Analyzer]()** — AI-Powered Resume Feedback Tool  
 Built using Python, Streamlit, and OpenAI’s GPT API. It extracts keywords from resumes, checks for skill gaps, and gives smart feedback. Users upload a PDF resume, and the app shows how well it matches a job description using NLP.
 
-**🔹 [CodeBud](https://github.com/yourrepo)** — AI Coding Assistant  
+**🔹 [CodeBud](https://github.com/hashmat-beep/Codebud-AI)** — AI Coding Assistant  
 Built with Vite, HTML, CSS, and JavaScript. Uses OpenAI API for real-time coding help. Deployed on Vercel.
 
 ---
