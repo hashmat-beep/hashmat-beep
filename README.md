@@ -43,7 +43,7 @@ Hi there! I'm Hashmatullah, a Computer Science student at UVA and a passionate d
 
 ### 🚀 Projects
 
-**🔹 [AI Resume Analyzer]()** — AI-Powered Resume Feedback Tool  
+**🔹 [AI Resume Analyzer](https://github.com/hashmat-beep/your-resume-analyzer)** — AI-Powered Resume Feedback Tool  
 Built using Python, Streamlit, and OpenAI’s GPT API. It extracts keywords from resumes, checks for skill gaps, and gives smart feedback. Users upload a PDF resume, and the app shows how well it matches a job description using NLP.
 
 **🔹 [CodeBud](https://github.com/hashmat-beep/Codebud-AI)** — AI Coding Assistant  
