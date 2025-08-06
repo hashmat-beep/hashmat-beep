@@ -44,18 +44,9 @@ Hi there! I'm Hashmatullah, a Computer Science student at UVA and a passionate d
 ### 🚀 Projects
 
 **🔹 [AI Resume Analyzer](https://github.com/hashmat-beep/your-resume-analyzer)** — AI-Powered Resume Feedback Tool  
-Built using Python, Streamlit, and OpenAI’s GPT API. It extracts keywords from resumes, checks for skill gaps, and gives smart feedback. Users upload a PDF resume, and the app shows how well it matches a job description using NLP.
+Built using **React**, **TypeScript**, **Tailwind CSS**, **Zustand**, **Vite**, and **OpenAI API** (via Puter.js). Users can upload a PDF resume and paste a job description to get an **instant ATS-style match score** along with AI-generated suggestions for improvement. Fully frontend and serverless — deployed on Vercel with a clean, responsive UI.
 
 **🔹 [CodeBud](https://github.com/hashmat-beep/Codebud-AI)** — AI Coding Assistant  
 Built with Vite, HTML, CSS, and JavaScript. Uses OpenAI API for real-time coding help. Deployed on Vercel.
-
----
-
-### 🌱 Currently Learning
-- LLMs & Generative AI
-- Backend APIs & Authentication
-- Cloud Deployment (AWS/GCP)
-
----
 
 Thanks for visiting! 😄
