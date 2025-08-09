@@ -49,4 +49,4 @@ Built using **React**, **TypeScript**, **Tailwind CSS**, **Zustand**, **Vite**, 
 **🔹 [CodeBud](https://github.com/hashmat-beep/Codebud-AI)** — AI Coding Assistant  
 Built with Vite, HTML, CSS, and JavaScript. Uses OpenAI API for real-time coding help. Deployed on Vercel.
 
-Thanks for visiting! 😄
+Thanks for visiting :(
