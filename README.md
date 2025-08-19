@@ -2,7 +2,6 @@
 
 Hi there! I'm Hashmatullah, a Computer Science student at UVA and a passionate developer who loves building helpful tools and exploring AI and web development. I enjoy solving problems with clean code and making projects that are useful and fun
 
----
 
 ### 💻 Programming & Core Concepts
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
