@@ -51,4 +51,4 @@ Built with Vite, HTML, CSS, and JavaScript. Uses OpenAI API for real-time coding
 🔹 [Fitness Progress Tracker](https://github.com/hashmat-beep/fitness-progress-tracker) — Workout Logging & Progress Visualization Tool  
 Java backend (Spark framework) with HTML/CSS frontend. Allows users to log workouts, track progress over time, and view weekly summaries through a clean, responsive UI. Runs locally with Maven & Java — perfect for individuals and trainers wanting to monitor fitness goals
 
-Thanks for visiting :(
+Thanks for visiting 
