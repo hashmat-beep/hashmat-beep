@@ -1,6 +1,6 @@
 ## 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Hashmatullah, a Computer Science student at UVA and a passionate developer who loves building helpful tools and exploring AI and web development. I enjoy solving problems with clean code and making projects that are useful and fun
+Hi there! I'm Hashmatullah, a Computer Science student at UVA and a passionate developer who loves building helpful tools and exploring AI and web development. I enjoy solving problems with clean code and making projects that are useful and funnnnn
 
 
 ### 💻 Programming & Core Concepts
